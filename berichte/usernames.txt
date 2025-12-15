@@ -1,0 +1,15 @@
+msfadmin
+user
+root
+admin
+postgres
+ftp
+daemon
+operator
+sysadmin
+support
+test
+webmaster
+guest
+ubuntu
+mysql
