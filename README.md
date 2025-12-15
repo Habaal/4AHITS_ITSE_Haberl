@@ -11,3 +11,4 @@ ITSE Arbeitsberichte
 
 [251117.md](/berichte/251117.md)
 
+[251215.md](/berichte/251215.md)
