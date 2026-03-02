@@ -12,3 +12,9 @@ ITSE Arbeitsberichte
 [251117.md](/berichte/251117.md)
 
 [251215.md](/berichte/251215.md)
+
+[260339.md](/berichte/260339.md)
+
+[260202.md](/berichte/260202.md)
+
+[260302.md](/berichte/260302.md)
